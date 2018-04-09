@@ -1,5 +1,4 @@
 # constraintsatisfaction
-READ_ME
 
 Please enjoy my code!!
 
